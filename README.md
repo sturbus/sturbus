@@ -24,7 +24,7 @@
 
 <p align="center">
 <h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,bootstrap,mui" />
 <h3>Backend</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,python,java,c" />
 <h3>Databases</h3>
