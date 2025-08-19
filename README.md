@@ -1,10 +1,13 @@
 <h1 align="center">
+ <p align="center">
   <a href="https://github.com/sturbus">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=👋+Hi%2C+I'm+Bill+Maina;💻+Full-Stack+Developer;🔐+Cybersecurity+Enthusiast;🚀+Building+Secure+Digital+Experiences" 
-      alt=" Bill Kabogo - Full-Stack Developer & Cybersecurity Enthusiast" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38BDF8&width=800&lines=👋+Hi%2C+I'm+Bill+Maina;💻+Full-Stack+Developer;🔐+Cybersecurity+Enthusiast;🚀+Building+Secure+Digital+Experiences" 
+      alt="Bill Kabogo - Full-Stack Developer & Cybersecurity Enthusiast" 
     />
   </a>
+</p>
+
 </h1>
 
 ### 📈 GitHub Profile Overview  
