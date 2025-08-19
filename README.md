@@ -24,9 +24,9 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,php,express,python,c," /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,php,express,python,c," />
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/>
   <!-- Security -->
