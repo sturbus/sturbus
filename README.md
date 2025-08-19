@@ -23,15 +23,28 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,php,express,python,c," />
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/>
-  <!-- Security -->
-  <img src="https://skillicons.dev/icons?i=kali,linux" />
+<!-- Frontend -->
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,bootstrap" />
+
+<!-- Backend -->
+<h3>Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,python,java,c" />
+
+<!-- Databases -->
+<h3>Databases</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br/>
+
+<!-- Security -->
+<h3>Security</h3>
+<img src="https://skillicons.dev/icons?i=kali,linux,bash" />
+
+<!-- Tools & DevOps -->
+<h3>Tools & DevOps</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+
 </p>
+
 
 
 ## 📊 GitHub Stats  
